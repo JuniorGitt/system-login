@@ -1,0 +1,2 @@
+[01:50:40] [plugins/mysql] orm_destroy: invalid orm id '0' (../modules/server/login/login.pwn:23 -> D:\San Andreas Roleplay\dependencies\YSI-Includes\YSI_Coding\y_hooks\..\y_cgen\y_cgen.inc:130)
+[12:57:46] [plugins/mysql] orm_destroy: invalid orm id '0'
